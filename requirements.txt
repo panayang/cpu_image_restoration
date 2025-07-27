@@ -1,0 +1,13 @@
+# PyTorch for CPU
+torch
+torchvision
+torchaudio
+# Core libraries
+opencv-python-headless
+numpy
+pillow
+tqdm 
+# AI Models
+realesrgan
+gfpgan
+facexlib
